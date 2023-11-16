@@ -2792,7 +2792,7 @@ input, select, textarea {
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.85;
+				opacity: 0.55;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
@@ -2831,11 +2831,11 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #437e7b;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #8d82c4;
+				background-color: #3F797D;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
